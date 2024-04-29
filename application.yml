@@ -1,3 +1,4 @@
+deepak: deepak
 eureka:
   instance:
     prefer-ip-address: true
